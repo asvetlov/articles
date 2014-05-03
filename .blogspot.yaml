@@ -4,7 +4,7 @@ posts:
   asyncio/aiopg:
     changed: false
     doctype: Markdown
-    file: asyncio/aiopg.rst
+    file: asyncio/aiopg.md
     file_encoding: ''
     labels: [asyncio, networking, postgresql, python, python3]
     link: http://asvetlov.blogspot.com/2014/04/aiopg.html
@@ -19,7 +19,7 @@ posts:
   asyncio/aiozmq:
     changed: false
     doctype: Markdown
-    file: asyncio/aiozmq.rst
+    file: asyncio/aiozmq.md
     file_encoding: ''
     labels: [aiozmq, asyncio, networking, python, python3]
     link: http://asvetlov.blogspot.com/2014/04/aiozmq.html
@@ -34,7 +34,7 @@ posts:
   asyncio/aiozmq-benchmark:
     changed: false
     doctype: Markdown
-    file: asyncio/aiozmq-benchmark.rst
+    file: asyncio/aiozmq-benchmark.md
     file_encoding: ''
     labels: [aiozmq, benchmark]
     link: http://asvetlov.blogspot.com/2014/04/aiozmq-benchmark.html
@@ -50,7 +50,7 @@ posts:
   asyncio/aiozmq-benchmark-update:
     changed: false
     doctype: Markdown
-    file: asyncio/aiozmq-benchmark-update.rst
+    file: asyncio/aiozmq-benchmark-update.md
     file_encoding: ''
     labels: [aiozmq, benchmark]
     link: http://asvetlov.blogspot.com/2014/04/aiozmq-benchmark-update.html
@@ -65,7 +65,7 @@ posts:
   asyncio/intro:
     changed: true
     doctype: Markdown
-    file: asyncio/intro.rst
+    file: asyncio/intro.md
     file_encoding: ''
     labels: [asyncio, networking, python, python3]
     link: ''
@@ -79,7 +79,7 @@ posts:
   asyncio/wsgi:
     changed: false
     doctype: Markdown
-    file: asyncio/wsgi.rst
+    file: asyncio/wsgi.md
     file_encoding: ''
     labels: [aiohttp, aiorest, asyncio, networking, python, python3]
     link: http://asvetlov.blogspot.com/2014/04/wsgi.html
@@ -93,7 +93,7 @@ posts:
   asyncio/yield-from:
     changed: true
     doctype: Markdown
-    file: asyncio/yield-from.rst
+    file: asyncio/yield-from.md
     file_encoding: ''
     labels: [asyncio, networking, python, python3]
     link: ''
@@ -107,7 +107,7 @@ posts:
   gamedev/content:
     changed: true
     doctype: Markdown
-    file: gamedev/content.rst
+    file: gamedev/content.md
     file_encoding: ''
     labels: []
     link: ''
@@ -121,7 +121,7 @@ posts:
   gui/article1:
     changed: true
     doctype: Markdown
-    file: gui/article1.rst
+    file: gui/article1.md
     file_encoding: ''
     labels: [gui, python]
     link: http://asvetlov.blogspot.com/2011/02/blog-post_05.html
@@ -140,7 +140,7 @@ posts:
   gui/article2:
     changed: true
     doctype: Markdown
-    file: gui/article2.rst
+    file: gui/article2.md
     file_encoding: ''
     labels: [gui, python]
     link: http://asvetlov.blogspot.com/2011/02/blog-post_07.html
@@ -156,7 +156,7 @@ posts:
   gui/article3:
     changed: true
     doctype: Markdown
-    file: gui/article3.rst
+    file: gui/article3.md
     file_encoding: ''
     labels: [gui, python]
     link: http://asvetlov.blogspot.com/2011/02/blog-post_08.html
@@ -172,7 +172,7 @@ posts:
   gui/article4-complex-models:
     changed: true
     doctype: Markdown
-    file: gui/article4-complex-models.rst
+    file: gui/article4-complex-models.md
     file_encoding: ''
     labels: []
     link: ''
@@ -186,7 +186,7 @@ posts:
   importing/article1:
     changed: true
     doctype: Markdown
-    file: importing/article1.rst
+    file: importing/article1.md
     file_encoding: ''
     labels: []
     link: http://asvetlov.blogspot.com/2010/05/blog-post.html
@@ -201,7 +201,7 @@ posts:
   importing/article2:
     changed: true
     doctype: Markdown
-    file: importing/article2.rst
+    file: importing/article2.md
     file_encoding: ''
     labels: []
     link: http://asvetlov.blogspot.com/2010/05/2.html
@@ -216,7 +216,7 @@ posts:
   importing/article3:
     changed: true
     doctype: Markdown
-    file: importing/article3.rst
+    file: importing/article3.md
     file_encoding: ''
     labels: []
     link: http://asvetlov.blogspot.com/2010/05/3.html
@@ -232,7 +232,7 @@ posts:
   importing/article4:
     changed: true
     doctype: Markdown
-    file: importing/article4.rst
+    file: importing/article4.md
     file_encoding: ''
     labels: []
     link: ''
@@ -246,7 +246,7 @@ posts:
   importing/import-and-unicode:
     changed: false
     doctype: Markdown
-    file: importing/import-and-unicode.rst
+    file: importing/import-and-unicode.md
     file_encoding: ''
     labels: [file system, import, python, python3, unicode]
     link: http://asvetlov.blogspot.com/2011/03/import-and-unicode.html
@@ -261,7 +261,7 @@ posts:
   importing/import_config:
     changed: false
     doctype: Markdown
-    file: importing/import_config.rst
+    file: importing/import_config.md
     file_encoding: ''
     labels: [config, import, python]
     link: http://asvetlov.blogspot.com/2011/03/importconfig.html
@@ -277,7 +277,7 @@ posts:
   importing/importlib:
     changed: false
     doctype: Markdown
-    file: importing/importlib.rst
+    file: importing/importlib.md
     file_encoding: ''
     labels: [import, python, python3]
     link: http://asvetlov.blogspot.com/2012/04/importlib.html
@@ -294,7 +294,7 @@ posts:
   misc/pymotw:
     changed: false
     doctype: Markdown
-    file: misc/pymotw.rst
+    file: misc/pymotw.md
     file_encoding: ''
     labels: [example, module, python]
     link: http://asvetlov.blogspot.com/2011/03/pymotw.html
@@ -310,7 +310,7 @@ posts:
   misc/repr_of_float:
     changed: false
     doctype: Markdown
-    file: misc/repr_of_float.rst
+    file: misc/repr_of_float.md
     file_encoding: ''
     labels: [float, python, repr]
     link: http://asvetlov.blogspot.com/2011/02/blog-post.html
@@ -328,7 +328,7 @@ posts:
   misc/rupycon2013:
     changed: false
     doctype: Markdown
-    file: misc/rupycon2013.rst
+    file: misc/rupycon2013.md
     file_encoding: ''
     labels: [pycon, python]
     link: http://asvetlov.blogspot.com/2013/02/rupycon2013.html
@@ -342,7 +342,7 @@ posts:
   misc/subprocess:
     changed: false
     doctype: Markdown
-    file: misc/subprocess.rst
+    file: misc/subprocess.md
     file_encoding: ''
     labels: [python]
     link: http://asvetlov.blogspot.com/2011/03/subprocess.html
@@ -358,7 +358,7 @@ posts:
   python/advanced-metaclasses:
     changed: true
     doctype: Markdown
-    file: python/advanced-metaclasses.rst
+    file: python/advanced-metaclasses.md
     file_encoding: ''
     labels: [metaprogramming, python, python3]
     link: ''
@@ -373,7 +373,7 @@ posts:
   python/date-and-time:
     changed: false
     doctype: Markdown
-    file: python/date-and-time.rst
+    file: python/date-and-time.md
     file_encoding: ''
     labels: [datetime, python, time zone]
     link: http://asvetlov.blogspot.com/2011/02/date-and-time.html
@@ -389,7 +389,7 @@ posts:
   python/exceptions:
     changed: false
     doctype: Markdown
-    file: python/exceptions.rst
+    file: python/exceptions.md
     file_encoding: ''
     labels: [exception, file system, python, python3]
     link: http://asvetlov.blogspot.com/2012/12/exceptions.html
@@ -404,7 +404,7 @@ posts:
   python/format:
     changed: true
     doctype: Markdown
-    file: python/format.rst
+    file: python/format.md
     file_encoding: ''
     labels: [datetime, formatting, python]
     link: http://asvetlov.blogspot.com/2012/10/format.html
@@ -420,7 +420,7 @@ posts:
   python/formatting:
     changed: false
     doctype: Markdown
-    file: python/formatting.rst
+    file: python/formatting.md
     file_encoding: ''
     labels: [python, string formatting]
     link: http://asvetlov.blogspot.com/2011/02/formatting.html
@@ -435,7 +435,7 @@ posts:
   python/gc:
     changed: false
     doctype: Markdown
-    file: python/gc.rst
+    file: python/gc.md
     file_encoding: ''
     labels: [garbage collection, python]
     link: http://asvetlov.blogspot.com/2013/05/gc.html
@@ -451,7 +451,7 @@ posts:
   python/main_thread:
     changed: false
     doctype: Markdown
-    file: python/main_thread.rst
+    file: python/main_thread.md
     file_encoding: ''
     labels: [python, threading]
     link: http://asvetlov.blogspot.com/2013/08/mainthread.html
@@ -467,7 +467,7 @@ posts:
   python/naive-and-aware-datetime-objects-supports-equality:
     changed: false
     doctype: Markdown
-    file: python/naive-and-aware-datetime-objects-supports-equality.rst
+    file: python/naive-and-aware-datetime-objects-supports-equality.md
     file_encoding: ''
     labels: [datetime, python, time zone]
     link: http://asvetlov.blogspot.com/2012/07/naive-and-aware-datetime-objects.html
@@ -483,7 +483,7 @@ posts:
   python/numerics:
     changed: false
     doctype: Markdown
-    file: python/numerics.rst
+    file: python/numerics.md
     file_encoding: ''
     labels: [decimal, float, fraction, int, python, python3]
     link: http://asvetlov.blogspot.com/2012/08/numerics.html
@@ -497,7 +497,7 @@ posts:
   python/recursion_limit:
     changed: false
     doctype: Markdown
-    file: python/recursion_limit.rst
+    file: python/recursion_limit.md
     file_encoding: ''
     labels: [python, stack overflow]
     link: http://asvetlov.blogspot.com/2011/07/recursionlimit.html
@@ -512,7 +512,7 @@ posts:
   python/time-intervals:
     changed: false
     doctype: Markdown
-    file: python/time-intervals.rst
+    file: python/time-intervals.md
     file_encoding: ''
     labels: [python, time]
     link: http://asvetlov.blogspot.com/2012/02/time-intervals.html
@@ -528,7 +528,7 @@ posts:
   python/try-finally:
     changed: false
     doctype: Markdown
-    file: python/try-finally.rst
+    file: python/try-finally.md
     file_encoding: ''
     labels: [python, !!python/str "\u043B\u0438\u043A\u0431\u0435\u0437"]
     link: http://asvetlov.blogspot.com/2013/04/try-finally.html
@@ -543,7 +543,7 @@ posts:
   python/tulip-subprocess:
     changed: false
     doctype: Markdown
-    file: python/tulip-subprocess.rst
+    file: python/tulip-subprocess.md
     file_encoding: ''
     labels: [python, tulip]
     link: http://asvetlov.blogspot.com/2013/08/tulip-subprocess.html
@@ -558,7 +558,7 @@ posts:
   testing/funny-unittests:
     changed: false
     doctype: Markdown
-    file: testing/funny-unittests.rst
+    file: testing/funny-unittests.md
     file_encoding: ''
     labels: [coverage, nose, python, unittest]
     link: http://asvetlov.blogspot.com/2011/02/funny-unittests.html
@@ -573,7 +573,7 @@ posts:
   testing/regression-tests:
     changed: false
     doctype: Markdown
-    file: testing/regression-tests.rst
+    file: testing/regression-tests.md
     file_encoding: ''
     labels: [python, regression tests, testing]
     link: http://asvetlov.blogspot.com/2011/02/regression-tests.html
@@ -588,7 +588,7 @@ posts:
   threading/GIL:
     changed: false
     doctype: Markdown
-    file: threading/GIL.rst
+    file: threading/GIL.md
     file_encoding: ''
     labels: [gil, python, threads]
     link: http://asvetlov.blogspot.com/2011/07/gil.html
@@ -603,7 +603,7 @@ posts:
   threading/article1:
     changed: false
     doctype: Markdown
-    file: threading/article1.rst
+    file: threading/article1.md
     file_encoding: ''
     labels: [python, threads]
     link: http://asvetlov.blogspot.com/2010/11/1.html
@@ -619,7 +619,7 @@ posts:
   threading/article2:
     changed: false
     doctype: Markdown
-    file: threading/article2.rst
+    file: threading/article2.md
     file_encoding: ''
     labels: [python, threads]
     link: http://asvetlov.blogspot.com/2010/11/2.html
@@ -636,7 +636,7 @@ posts:
   threading/article3:
     changed: true
     doctype: Markdown
-    file: threading/article3.rst
+    file: threading/article3.md
     file_encoding: ''
     labels: [python, threads]
     link: http://asvetlov.blogspot.com/2011/02/3.html
@@ -654,7 +654,7 @@ posts:
   threading/signal:
     changed: false
     doctype: Markdown
-    file: threading/signal.rst
+    file: threading/signal.md
     file_encoding: ''
     labels: [gil, python, signal, threads]
     link: http://asvetlov.blogspot.com/2011/07/signal.html
