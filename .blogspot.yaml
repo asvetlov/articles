@@ -298,13 +298,13 @@ posts:
     file_encoding: ''
     labels: [pip, python]
     link: http://asvetlov.blogspot.com/2014/05/pip.html
-    local_stamp: 1399144708
+    local_stamp: 1399145234
     name: install/pip
     postid: '6004199220109470700'
     published: 1399144740
     slug: pip
     title: !!python/str "\u0420\u0430\u0431\u043E\u0442\u0430\u0435\u043C \u0441 pip"
-    updated: 1399144747
+    updated: 1399144757
   misc/pymotw:
     changed: false
     doctype: Markdown

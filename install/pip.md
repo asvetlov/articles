@@ -80,7 +80,7 @@ Labels: python, pip
 ------------------------------------
 
 Если `setup.py` содержит
-[`extra_requires`](https://pythonhosted.org/setuptools/setuptools.html?highlight=extras_require#declaring-extras-optional-features-with-their-own-dependencies)
+[`extras_require`](https://pythonhosted.org/setuptools/setuptools.html?highlight=extras_require#declaring-extras-optional-features-with-their-own-dependencies)
 то дополнительные зависимости можно установить так:
 
     $ pip install -e .[PDF,reST]
