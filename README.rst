@@ -1,4 +1,4 @@
 articles
 ========
 
-My articles from asvetlov.blogspot.com
+My articles from http://asvetlov.blogspot.com
