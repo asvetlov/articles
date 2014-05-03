@@ -1,0 +1,668 @@
+info: {blogid: '824928856526666223', changed: true, email: andrew.svetlov@gmail.com,
+  source_encoding: '', template_dir: template, template_file: template.html}
+posts:
+  asyncio/aiopg:
+    changed: false
+    doctype: Markdown
+    file: asyncio/aiopg.rst
+    file_encoding: ''
+    labels: [asyncio, networking, postgresql, python, python3]
+    link: http://asvetlov.blogspot.com/2014/04/aiopg.html
+    local_stamp: 1396806838
+    name: asyncio/aiopg
+    postid: '838154257037182139'
+    published: 1396806840
+    slug: aiopg
+    title: !!python/str "aiopg -- asyncio \u0431\u0438\u0431\u043B\u0438\u043E\u0442\
+      \u0435\u043A\u0430 \u0434\u043B\u044F PostgreSQL"
+    updated: 1396806856
+  asyncio/aiozmq:
+    changed: false
+    doctype: Markdown
+    file: asyncio/aiozmq.rst
+    file_encoding: ''
+    labels: [aiozmq, asyncio, networking, python, python3]
+    link: http://asvetlov.blogspot.com/2014/04/aiozmq.html
+    local_stamp: 1396507977
+    name: asyncio/aiozmq
+    postid: '2471270858374243942'
+    published: 1396507980
+    slug: aiozmq
+    title: !!python/str "aiozmq -- \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\
+      \u0430 ZeroMQ \u0441\u043E\u043A\u0435\u0442\u043E\u0432 \u0432 asyncio"
+    updated: 1396508021
+  asyncio/aiozmq-benchmark:
+    changed: false
+    doctype: Markdown
+    file: asyncio/aiozmq-benchmark.rst
+    file_encoding: ''
+    labels: [aiozmq, benchmark]
+    link: http://asvetlov.blogspot.com/2014/04/aiozmq-benchmark.html
+    local_stamp: 1397413791
+    name: asyncio/aiozmq-benchmark
+    postid: '6097196217242594404'
+    published: 1397413920
+    slug: aiozmq-benchmark
+    title: !!python/str "\u041E\u0446\u0435\u043D\u043A\u0430 \u043F\u0440\u043E\u0438\
+      \u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\
+      \u0438 aiozmq"
+    updated: 1397413949
+  asyncio/aiozmq-benchmark-update:
+    changed: false
+    doctype: Markdown
+    file: asyncio/aiozmq-benchmark-update.rst
+    file_encoding: ''
+    labels: [aiozmq, benchmark]
+    link: http://asvetlov.blogspot.com/2014/04/aiozmq-benchmark-update.html
+    local_stamp: 1397584425
+    name: asyncio/aiozmq-benchmark-update
+    postid: '4917125962954551972'
+    published: 1397507640
+    slug: aiozmq-benchmark-update
+    title: !!python/str "aiozmq benchmark -- \u043E\u0431\u043D\u043E\u0432\u043B\u0435\
+      \u043D\u0438\u0435"
+    updated: 1397514157
+  asyncio/intro:
+    changed: true
+    doctype: Markdown
+    file: asyncio/intro.rst
+    file_encoding: ''
+    labels: [asyncio, networking, python, python3]
+    link: ''
+    local_stamp: 1393603071
+    name: asyncio/intro
+    postid: ''
+    published: null
+    slug: intro
+    title: !!python/str "Asyncio: \u0432\u0432\u0435\u0434\u0435\u043D\u0438\u0435"
+    updated: null
+  asyncio/wsgi:
+    changed: false
+    doctype: Markdown
+    file: asyncio/wsgi.rst
+    file_encoding: ''
+    labels: [aiohttp, aiorest, asyncio, networking, python, python3]
+    link: http://asvetlov.blogspot.com/2014/04/wsgi.html
+    local_stamp: 1396650829
+    name: asyncio/wsgi
+    postid: '5210320112310775182'
+    published: 1396650900
+    slug: wsgi
+    title: !!python/str "asyncio \u0438 HTTP"
+    updated: 1396650910
+  asyncio/yield-from:
+    changed: true
+    doctype: Markdown
+    file: asyncio/yield-from.rst
+    file_encoding: ''
+    labels: [asyncio, networking, python, python3]
+    link: ''
+    local_stamp: 1393588074
+    name: asyncio/yield-from
+    postid: ''
+    published: null
+    slug: yield-from
+    title: 'Asyncio: yield from'
+    updated: null
+  gamedev/content:
+    changed: true
+    doctype: Markdown
+    file: gamedev/content.rst
+    file_encoding: ''
+    labels: []
+    link: ''
+    local_stamp: null
+    name: gamedev/content
+    postid: ''
+    published: null
+    slug: content
+    title: ''
+    updated: null
+  gui/article1:
+    changed: true
+    doctype: Markdown
+    file: gui/article1.rst
+    file_encoding: ''
+    labels: [gui, python]
+    link: http://asvetlov.blogspot.com/2011/02/blog-post_05.html
+    local_stamp: 1316046725
+    name: gui/article1
+    postid: '9166453566935081904'
+    published: null
+    slug: ''
+    title: !!python/str "\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441, \u0447\u0430\u0441\
+      \u0442\u044C \u043F\u0435\u0440\u0432\u0430\u044F. \u041E\u0431\u0449\u0438\u0435\
+      \ \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B \u0441\u043E\u0437\u0434\u0430\
+      \u043D\u0438\u044F \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043E\
+      \u0432"
+    updated: null
+  gui/article2:
+    changed: true
+    doctype: Markdown
+    file: gui/article2.rst
+    file_encoding: ''
+    labels: [gui, python]
+    link: http://asvetlov.blogspot.com/2011/02/blog-post_07.html
+    local_stamp: null
+    name: gui/article2
+    postid: '1573718136300115114'
+    published: null
+    slug: ''
+    title: !!python/str "\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441, \u0447\u0430\u0441\
+      \u0442\u044C \u0432\u0442\u043E\u0440\u0430\u044F"
+    updated: null
+  gui/article3:
+    changed: true
+    doctype: Markdown
+    file: gui/article3.rst
+    file_encoding: ''
+    labels: [gui, python]
+    link: http://asvetlov.blogspot.com/2011/02/blog-post_08.html
+    local_stamp: null
+    name: gui/article3
+    postid: '7784693894040831858'
+    published: null
+    slug: ''
+    title: !!python/str "\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441, \u0447\u0430\u0441\
+      \u0442\u044C \u0442\u0440\u0435\u0442\u044C\u044F"
+    updated: null
+  gui/article4-complex-models:
+    changed: true
+    doctype: Markdown
+    file: gui/article4-complex-models.rst
+    file_encoding: ''
+    labels: []
+    link: ''
+    local_stamp: null
+    name: gui/article4-complex-models
+    postid: ''
+    published: null
+    slug: article4-complex-models
+    title: ''
+    updated: null
+  importing/article1:
+    changed: true
+    doctype: Markdown
+    file: importing/article1.rst
+    file_encoding: ''
+    labels: []
+    link: http://asvetlov.blogspot.com/2010/05/blog-post.html
+    local_stamp: null
+    name: importing/article1
+    postid: '1683875263901851257'
+    published: null
+    slug: ''
+    title: !!python/str "\u0418\u043C\u043F\u043E\u0440\u0442 \u0432 \u041F\u0438\u0442\
+      \u043E\u043D\u0435"
+    updated: null
+  importing/article2:
+    changed: true
+    doctype: Markdown
+    file: importing/article2.rst
+    file_encoding: ''
+    labels: []
+    link: http://asvetlov.blogspot.com/2010/05/2.html
+    local_stamp: null
+    name: importing/article2
+    postid: '5983579042319401961'
+    published: null
+    slug: ''
+    title: !!python/str "\u0418\u043C\u043F\u043E\u0440\u0442 \u0432 \u041F\u0438\u0442\
+      \u043E\u043D\u0435 - \u0447\u0430\u0441\u0442\u044C 2"
+    updated: null
+  importing/article3:
+    changed: true
+    doctype: Markdown
+    file: importing/article3.rst
+    file_encoding: ''
+    labels: []
+    link: http://asvetlov.blogspot.com/2010/05/3.html
+    local_stamp: null
+    name: importing/article3
+    postid: '8421854261774174110'
+    published: null
+    slug: ''
+    title: !!python/str "\u041F\u0438\u0442\u043E\u043D: \u0438\u043C\u043F\u043E\u0440\
+      \u0442 \u0438 \u043C\u043E\u0434\u0443\u043B\u0438 - \u0447\u0430\u0441\u0442\
+      \u044C 3"
+    updated: null
+  importing/article4:
+    changed: true
+    doctype: Markdown
+    file: importing/article4.rst
+    file_encoding: ''
+    labels: []
+    link: ''
+    local_stamp: null
+    name: importing/article4
+    postid: ''
+    published: null
+    slug: ''
+    title: ''
+    updated: null
+  importing/import-and-unicode:
+    changed: false
+    doctype: Markdown
+    file: importing/import-and-unicode.rst
+    file_encoding: ''
+    labels: [file system, import, python, python3, unicode]
+    link: http://asvetlov.blogspot.com/2011/03/import-and-unicode.html
+    local_stamp: 1310558241
+    name: importing/import-and-unicode
+    postid: '5094870370917015544'
+    published: 1300857000
+    slug: import-and-unicode
+    title: !!python/str "Python 3: \u0418\u043C\u043F\u043E\u0440\u0442 \u0438 \u044E\
+      \u043D\u0438\u043A\u043E\u0434"
+    updated: 1301450609
+  importing/import_config:
+    changed: false
+    doctype: Markdown
+    file: importing/import_config.rst
+    file_encoding: ''
+    labels: [config, import, python]
+    link: http://asvetlov.blogspot.com/2011/03/importconfig.html
+    local_stamp: 1300858825
+    name: importing/import_config
+    postid: '565521492633856869'
+    published: 1300592520
+    slug: importconfig
+    title: !!python/str "\u0418\u043C\u043F\u043E\u0440\u0442 \u043A\u043E\u043D\u0444\
+      \u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0444\
+      \u0430\u0439\u043B\u043E\u0432"
+    updated: 1300613650
+  importing/importlib:
+    changed: false
+    doctype: Markdown
+    file: importing/importlib.rst
+    file_encoding: ''
+    labels: [import, python, python3]
+    link: http://asvetlov.blogspot.com/2012/04/importlib.html
+    local_stamp: 1334441660
+    name: importing/importlib
+    postid: '2568285470982606184'
+    published: 1334445180
+    slug: importlib
+    title: !!python/str "\u0420\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\
+      \ \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0432 \u041F\u0438\u0442\u043E\
+      \u043D\u0435 \u043F\u0435\u0440\u0435\u043F\u0438\u0441\u0430\u043D\u0430 \u043D\
+      \u0430 \u0447\u0438\u0441\u0442\u044B\u0439 \u041F\u0438\u0442\u043E\u043D"
+    updated: 1334445213
+  misc/pymotw:
+    changed: false
+    doctype: Markdown
+    file: misc/pymotw.rst
+    file_encoding: ''
+    labels: [example, module, python]
+    link: http://asvetlov.blogspot.com/2011/03/pymotw.html
+    local_stamp: 1344345943
+    name: misc/pymotw
+    postid: '1279674571643283393'
+    published: 1300495680
+    slug: pymotw
+    title: !!python/str "PyMOTW - \u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\
+      \u0438\u043A \u043F\u0440\u0438\u043C\u0435\u0440\u043E\u0432 \u0438\u0441\u043F\
+      \u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F"
+    updated: 1300592640
+  misc/repr_of_float:
+    changed: false
+    doctype: Markdown
+    file: misc/repr_of_float.rst
+    file_encoding: ''
+    labels: [float, python, repr]
+    link: http://asvetlov.blogspot.com/2011/02/blog-post.html
+    local_stamp: 1301914440
+    name: misc/repr_of_float
+    postid: '839856269467885624'
+    published: 1296864300
+    slug: ''
+    title: !!python/str "\u0422\u0435\u043A\u0441\u0442\u043E\u0432\u043E\u0435 \u043F\
+      \u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0447\
+      \u0438\u0441\u0435\u043B \u0441 \u043F\u043B\u0430\u0432\u0430\u044E\u0449\u0435\
+      \u0439 \u0437\u0430\u043F\u044F\u0442\u043E\u0439 \u0432 \u041F\u0438\u0442\u043E\
+      \u043D\u0435"
+    updated: 1301187944
+  misc/rupycon2013:
+    changed: false
+    doctype: Markdown
+    file: misc/rupycon2013.rst
+    file_encoding: ''
+    labels: [pycon, python]
+    link: http://asvetlov.blogspot.com/2013/02/rupycon2013.html
+    local_stamp: 1361865760
+    name: misc/rupycon2013
+    postid: '2790349531882601872'
+    published: 1361866260
+    slug: rupycon2013
+    title: RU PyCon 2013
+    updated: 1361866260
+  misc/subprocess:
+    changed: false
+    doctype: Markdown
+    file: misc/subprocess.rst
+    file_encoding: ''
+    labels: [python]
+    link: http://asvetlov.blogspot.com/2011/03/subprocess.html
+    local_stamp: 1301217000
+    name: misc/subprocess
+    postid: '6382491628896439194'
+    published: 1301191560
+    slug: subprocess
+    title: !!python/str "\u0418\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u0430\u044F\
+      \ \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438\u0441\
+      \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F subprocess"
+    updated: 1301216929
+  python/advanced-metaclasses:
+    changed: true
+    doctype: Markdown
+    file: python/advanced-metaclasses.rst
+    file_encoding: ''
+    labels: [metaprogramming, python, python3]
+    link: ''
+    local_stamp: 1334529861
+    name: python/advanced-metaclasses
+    postid: ''
+    published: null
+    slug: advanced-metaclasses
+    title: !!python/str "\u041C\u0435\u0442\u0430\u043A\u043B\u0430\u0441\u0441\u044B\
+      \ \u0432 Python 3"
+    updated: null
+  python/date-and-time:
+    changed: false
+    doctype: Markdown
+    file: python/date-and-time.rst
+    file_encoding: ''
+    labels: [datetime, python, time zone]
+    link: http://asvetlov.blogspot.com/2011/02/date-and-time.html
+    local_stamp: 1329677498
+    name: python/date-and-time
+    postid: '4102790100762559946'
+    published: 1298834880
+    slug: date-and-time
+    title: !!python/str "\u041F\u0438\u0442\u043E\u043D: \u0432\u0440\u0435\u043C\u0435\
+      \u043D\u0430, \u0434\u0430\u0442\u044B \u0438 \u0432\u0440\u0435\u043C\u0435\
+      \u043D\u043D\u044B\u0435 \u0437\u043E\u043D\u044B"
+    updated: 1310725134
+  python/exceptions:
+    changed: false
+    doctype: Markdown
+    file: python/exceptions.rst
+    file_encoding: ''
+    labels: [exception, file system, python, python3]
+    link: http://asvetlov.blogspot.com/2012/12/exceptions.html
+    local_stamp: 1355759903
+    name: python/exceptions
+    postid: '4519858375885753159'
+    published: 1355698440
+    slug: exceptions
+    title: !!python/str "\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\
+      \ \u0432 \u041F\u0438\u0442\u043E\u043D\u0435"
+    updated: 1355707565
+  python/format:
+    changed: true
+    doctype: Markdown
+    file: python/format.rst
+    file_encoding: ''
+    labels: [datetime, formatting, python]
+    link: http://asvetlov.blogspot.com/2012/10/format.html
+    local_stamp: 1351240632
+    name: python/format
+    postid: '2639683476007906007'
+    published: 1351190940
+    slug: format
+    title: !!python/str "\u041F\u0438\u0442\u043E\u043D: \u0435\u0449\u0435 \u0440\
+      \u0430\u0437 \u0444\u043E\u0440\u043C\u0430\u0442\u0438\u0440\u043E\u0432\u0430\
+      \u043D\u0438\u0435"
+    updated: 1351190997
+  python/formatting:
+    changed: false
+    doctype: Markdown
+    file: python/formatting.rst
+    file_encoding: ''
+    labels: [python, string formatting]
+    link: http://asvetlov.blogspot.com/2011/02/formatting.html
+    local_stamp: 1298595579
+    name: python/formatting
+    postid: '2912283074105731861'
+    published: 1298356200
+    slug: formatting
+    title: !!python/str "\u0424\u043E\u0440\u043C\u0430\u0442\u0438\u0440\u043E\u0432\
+      \u0430\u043D\u0438\u0435 \u0441\u0442\u0440\u043E\u043A"
+    updated: 1298562720
+  python/gc:
+    changed: false
+    doctype: Markdown
+    file: python/gc.rst
+    file_encoding: ''
+    labels: [garbage collection, python]
+    link: http://asvetlov.blogspot.com/2013/05/gc.html
+    local_stamp: 1372838693
+    name: python/gc
+    postid: '6327089539285275774'
+    published: 1367607420
+    slug: gc
+    title: !!python/str "\u0423\u0434\u0430\u043B\u0435\u043D\u0438\u0435 \u043E\u0431\
+      \u044A\u0435\u043A\u0442\u043E\u0432 \u0441\u0431\u043E\u0440\u0449\u0438\u043A\
+      \u043E\u043C \u043C\u0443\u0441\u043E\u0440\u0430"
+    updated: 1367607457
+  python/main_thread:
+    changed: false
+    doctype: Markdown
+    file: python/main_thread.rst
+    file_encoding: ''
+    labels: [python, threading]
+    link: http://asvetlov.blogspot.com/2013/08/mainthread.html
+    local_stamp: 1377946904
+    name: python/main_thread
+    postid: '8780523424239635885'
+    published: 1377946920
+    slug: mainthread
+    title: !!python/str "\u041E\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u0438\
+      \u0435 \u0433\u043B\u0430\u0432\u043D\u043E\u0433\u043E \u043F\u043E\u0442\u043E\
+      \u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F"
+    updated: 1377946940
+  python/naive-and-aware-datetime-objects-supports-equality:
+    changed: false
+    doctype: Markdown
+    file: python/naive-and-aware-datetime-objects-supports-equality.rst
+    file_encoding: ''
+    labels: [datetime, python, time zone]
+    link: http://asvetlov.blogspot.com/2012/07/naive-and-aware-datetime-objects.html
+    local_stamp: 1342708553
+    name: python/naive-and-aware-datetime-objects-supports-equality
+    postid: '2533102554647840726'
+    published: 1342708740
+    slug: naive-and-aware-datetime-objects
+    title: !!python/str "\u041F\u0438\u0442\u043E\u043D: \u0432\u0440\u0435\u043C\u0435\
+      \u043D\u0430, \u0434\u0430\u0442\u044B \u0438 \u0432\u0440\u0435\u043C\u0435\
+      \u043D\u043D\u044B\u0435 \u0437\u043E\u043D\u044B"
+    updated: 1342708745
+  python/numerics:
+    changed: false
+    doctype: Markdown
+    file: python/numerics.rst
+    file_encoding: ''
+    labels: [decimal, float, fraction, int, python, python3]
+    link: http://asvetlov.blogspot.com/2012/08/numerics.html
+    local_stamp: 1344345390
+    name: python/numerics
+    postid: '5354522966465628568'
+    published: 1344289380
+    slug: numerics
+    title: !!python/str "\u0427\u0438\u0441\u043B\u0430 \u0432 Python 3"
+    updated: 1344345412
+  python/recursion_limit:
+    changed: false
+    doctype: Markdown
+    file: python/recursion_limit.rst
+    file_encoding: ''
+    labels: [python, stack overflow]
+    link: http://asvetlov.blogspot.com/2011/07/recursionlimit.html
+    local_stamp: 1310494863
+    name: python/recursion_limit
+    postid: '129798793796615819'
+    published: 1310471940
+    slug: recursionlimit
+    title: !!python/str "\u041F\u0435\u0440\u0435\u043F\u043E\u043B\u043D\u0435\u043D\
+      \u0438\u0435 \u0441\u0442\u0435\u043A\u0430"
+    updated: 1310471998
+  python/time-intervals:
+    changed: false
+    doctype: Markdown
+    file: python/time-intervals.rst
+    file_encoding: ''
+    labels: [python, time]
+    link: http://asvetlov.blogspot.com/2012/02/time-intervals.html
+    local_stamp: 1330381501
+    name: python/time-intervals
+    postid: '5413079625723143265'
+    published: 1330376280
+    slug: time-intervals
+    title: !!python/str "\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 \u0438\
+      \u043D\u0442\u0435\u0440\u0432\u0430\u043B\u043E\u0432 \u0432\u0440\u0435\u043C\
+      \u0435\u043D\u0438"
+    updated: 1330380946
+  python/try-finally:
+    changed: false
+    doctype: Markdown
+    file: python/try-finally.rst
+    file_encoding: ''
+    labels: [python, !!python/str "\u043B\u0438\u043A\u0431\u0435\u0437"]
+    link: http://asvetlov.blogspot.com/2013/04/try-finally.html
+    local_stamp: 1366229045
+    name: python/try-finally
+    postid: '3161913451396157473'
+    published: 1366226700
+    slug: try-finally
+    title: !!python/str "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\
+      \u043D\u0438\u0435 try-finally"
+    updated: 1366227117
+  python/tulip-subprocess:
+    changed: false
+    doctype: Markdown
+    file: python/tulip-subprocess.rst
+    file_encoding: ''
+    labels: [python, tulip]
+    link: http://asvetlov.blogspot.com/2013/08/tulip-subprocess.html
+    local_stamp: 1376430352
+    name: python/tulip-subprocess
+    postid: '9086128915285741761'
+    published: 1376429940
+    slug: tulip-subprocess
+    title: !!python/str "\u0417\u0430\u043F\u0443\u0441\u043A \u043F\u0440\u043E\u0446\
+      \u0435\u0441\u0441\u043E\u0432 \u0432 tulip"
+    updated: 1376429950
+  testing/funny-unittests:
+    changed: false
+    doctype: Markdown
+    file: testing/funny-unittests.rst
+    file_encoding: ''
+    labels: [coverage, nose, python, unittest]
+    link: http://asvetlov.blogspot.com/2011/02/funny-unittests.html
+    local_stamp: 1298568832
+    name: testing/funny-unittests
+    postid: '2090108334344230606'
+    published: 1297866960
+    slug: funny-unittests
+    title: !!python/str "\u041F\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u043C \u043E\
+      \ \u044E\u043D\u0438\u0442\u0442\u0435\u0441\u0442\u0430\u0445"
+    updated: 1298568834
+  testing/regression-tests:
+    changed: false
+    doctype: Markdown
+    file: testing/regression-tests.rst
+    file_encoding: ''
+    labels: [python, regression tests, testing]
+    link: http://asvetlov.blogspot.com/2011/02/regression-tests.html
+    local_stamp: 1298656645
+    name: testing/regression-tests
+    postid: '972569088698925827'
+    published: 1298562480
+    slug: regression-tests
+    title: !!python/str "\u0420\u0435\u0433\u0440\u0435\u0441\u0441\u0438\u043E\u043D\
+      \u043D\u044B\u0435 \u0442\u0435\u0441\u0442\u044B"
+    updated: 1298656245
+  threading/GIL:
+    changed: false
+    doctype: Markdown
+    file: threading/GIL.rst
+    file_encoding: ''
+    labels: [gil, python, threads]
+    link: http://asvetlov.blogspot.com/2011/07/gil.html
+    local_stamp: 1310561876
+    name: threading/GIL
+    postid: '7286946096613815396'
+    published: 1309782780
+    slug: gil
+    title: !!python/str "\u0417\u0430\u0433\u0430\u0434\u043E\u0447\u043D\u044B\u0439\
+      \ GIL"
+    updated: 1310561851
+  threading/article1:
+    changed: false
+    doctype: Markdown
+    file: threading/article1.rst
+    file_encoding: ''
+    labels: [python, threads]
+    link: http://asvetlov.blogspot.com/2010/11/1.html
+    local_stamp: 1308305834
+    name: threading/article1
+    postid: '6025252253795660972'
+    published: 1291132140
+    slug: ''
+    title: !!python/str "\u041C\u0443\u043B\u044C\u0442\u0438\u043F\u043E\u0442\u043E\
+      \u0447\u043D\u043E\u0441\u0442\u044C \u0432 \u041F\u0438\u0442\u043E\u043D\u0435\
+      . \u0427\u0430\u0441\u0442\u044C 1 - \u043F\u043E\u0442\u043E\u043A\u0438"
+    updated: 1308305874
+  threading/article2:
+    changed: false
+    doctype: Markdown
+    file: threading/article2.rst
+    file_encoding: ''
+    labels: [python, threads]
+    link: http://asvetlov.blogspot.com/2010/11/2.html
+    local_stamp: 1369008077
+    name: threading/article2
+    postid: '242351030008622025'
+    published: 1291132200
+    slug: ''
+    title: !!python/str "\u041C\u0443\u043B\u044C\u0442\u0438\u043F\u043E\u0442\u043E\
+      \u0447\u043D\u043E\u0441\u0442\u044C \u0432 \u043F\u0438\u0442\u043E\u043D\u0435\
+      . \u0427\u0430\u0441\u0442\u044C 2 - \u0441\u0438\u043D\u0445\u0440\u043E\u043D\
+      \u0438\u0437\u0430\u0446\u0438\u044F"
+    updated: 1302015865
+  threading/article3:
+    changed: true
+    doctype: Markdown
+    file: threading/article3.rst
+    file_encoding: ''
+    labels: [python, threads]
+    link: http://asvetlov.blogspot.com/2011/02/3.html
+    local_stamp: 1309781136
+    name: threading/article3
+    postid: '6587960347286358449'
+    published: 1297272540
+    slug: ''
+    title: !!python/str "\u041C\u0443\u043B\u044C\u0442\u0438\u043F\u043E\u0442\u043E\
+      \u0447\u043D\u043E\u0441\u0442\u044C \u0432 \u041F\u0438\u0442\u043E\u043D\u0435\
+      . \u0427\u0430\u0441\u0442\u044C 3 - \u0432\u044B\u0441\u043E\u043A\u043E\u0443\
+      \u0440\u043E\u0432\u043D\u0435\u0432\u044B\u0435 \u043E\u0431\u044A\u0435\u043A\
+      \u0442\u044B"
+    updated: 1297283722
+  threading/signal:
+    changed: false
+    doctype: Markdown
+    file: threading/signal.rst
+    file_encoding: ''
+    labels: [gil, python, signal, threads]
+    link: http://asvetlov.blogspot.com/2011/07/signal.html
+    local_stamp: 1309800770
+    name: threading/signal
+    postid: '7392214892451328376'
+    published: 1309812180
+    slug: signal
+    title: !!python/str "GIL \u0438 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\
+      \u0430 \u0441\u0438\u0433\u043D\u0430\u043B\u043E\u0432"
+    updated: 1309812202
