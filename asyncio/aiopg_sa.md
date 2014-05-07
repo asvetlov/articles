@@ -1,7 +1,7 @@
 Title: aiopg и SQLAlchemy
 Labels: python, SQLAlchemy, asyncio, python3, postgresql
 
-Выпустил новую версию [aiopg](http://aiopg.readthedocs.org) --
+Выпустил новую версию [aiopg 0.2](http://aiopg.readthedocs.org) --
 библиотеки для работы с PostgreSQL из
 [asyncio](https://docs.python.org/dev/library/asyncio.html).
 
