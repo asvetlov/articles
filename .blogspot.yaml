@@ -1,5 +1,5 @@
-info: {blogid: '824928856526666223', changed: true, email: andrew.svetlov@gmail.com,
-  source_encoding: '', template_dir: template, template_file: template.html}
+info: {blogid: '824928856526666223', changed: true, source_encoding: '', template_dir: template,
+  template_file: template.html}
 posts:
   asyncio/aiopg:
     changed: false
@@ -16,6 +16,20 @@ posts:
     title: !!python/str "aiopg -- asyncio \u0431\u0438\u0431\u043B\u0438\u043E\u0442\
       \u0435\u043A\u0430 \u0434\u043B\u044F PostgreSQL"
     updated: 1396806856
+  asyncio/aiopg_sa:
+    changed: false
+    doctype: Markdown
+    file: asyncio/aiopg_sa.md
+    file_encoding: ''
+    labels: [SQLAlchemy, asyncio, postgresql, python, python3]
+    link: http://asvetlov.blogspot.com/2014/05/aiopgsa.html
+    local_stamp: 1399490649
+    name: asyncio/aiopg_sa
+    postid: '8350801890821407272'
+    published: 1399490760
+    slug: aiopgsa
+    title: !!python/str "aiopg \u0438 SQLAlchemy"
+    updated: 1399490798
   asyncio/aiozmq:
     changed: false
     doctype: Markdown
