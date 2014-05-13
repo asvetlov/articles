@@ -197,6 +197,21 @@ posts:
     slug: article4-complex-models
     title: ''
     updated: null
+  hiring/levelup:
+    changed: false
+    doctype: Markdown
+    file: hiring/levelup.md
+    file_encoding: ''
+    labels: [hiring]
+    link: http://asvetlov.blogspot.com/2014/05/levelup-hiring.html
+    local_stamp: 1399905233
+    name: hiring/levelup
+    postid: '6899936618966960483'
+    published: 1399905360
+    slug: levelup-hiring
+    title: !!python/str "LevelUp \u0438\u0449\u0435\u0442 \u043F\u0438\u0442\u043E\
+      \u043D\u0449\u0438\u043A\u043E\u0432"
+    updated: 1399905379
   importing/article1:
     changed: true
     doctype: Markdown
