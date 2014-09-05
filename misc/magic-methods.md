@@ -213,7 +213,7 @@ Labels: python, magic methods
         if isinstance(other, Point):
             return Point(self._x + other._x, self._y + other._y)
         elif isinstance(other, QPoint):
-            return Point(other.x() - self._x, other.y() - self._y)
+            return Point(self._x + other.x(), self._y + other.y())
         return NotImplemented
 
 Реализацию `__iadd__`/`__isub__` рассматривать не буду, там всё
