@@ -334,6 +334,21 @@ posts:
     slug: pip
     title: !!python/str "\u0420\u0430\u0431\u043E\u0442\u0430\u0435\u043C \u0441 pip"
     updated: 1399145238
+  misc/magic-methods:
+    changed: false
+    doctype: Markdown
+    file: misc/magic-methods.md
+    file_encoding: ''
+    labels: [magic methods, python]
+    link: http://asvetlov.blogspot.com/2014/09/magic-methods.html
+    local_stamp: 1409920074
+    name: misc/magic-methods
+    postid: '2779560335127818460'
+    published: 1409916600
+    slug: magic-methods
+    title: !!python/str "\u041F\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043A\u0430\
+      \ \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0439"
+    updated: 1409920204
   misc/pymotw:
     changed: false
     doctype: Markdown
