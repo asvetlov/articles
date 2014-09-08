@@ -45,7 +45,7 @@ Labels: python, containers, abc
 `dict` ведь это позволяет!
 
 Можем добавить метод `__contains__` -- а можем вспомнить, что есть
-класс `containers.abc.Mapping`.
+класс `collections.abc.Mapping`.
 
 Это *абстрактный базовый класс*, задающий *контракт* для неизменяемого словаря.
 
