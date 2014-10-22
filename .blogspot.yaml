@@ -740,3 +740,18 @@ posts:
     title: !!python/str "GIL \u0438 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\
       \u0430 \u0441\u0438\u0433\u043D\u0430\u043B\u043E\u0432"
     updated: 1309812202
+  web/flask:
+    changed: false
+    doctype: Markdown
+    file: web/flask.md
+    file_encoding: ''
+    labels: [flask, python, web]
+    link: http://asvetlov.blogspot.com/2014/10/flask_20.html
+    local_stamp: 1413770911
+    name: web/flask
+    postid: '8229274632704757710'
+    published: 1413771180
+    slug: flask_20
+    title: !!python/str "\u041F\u043E\u0447\u0435\u043C\u0443 \u044F \u043D\u0435\
+      \ \u043B\u044E\u0431\u043B\u044E Flask"
+    updated: 1413771226
