@@ -49,11 +49,40 @@ Labels: python, web, asyncio, aiohttp
 Компания [KeepSafe](https://www.getkeepsafe.com/), где работает
 Николай, пошла навстречу и организовала мне двухнедельный визит.
 
+Огромное спасибо Phillip Berner и Zouhair Belkoura за организацию поездки.
+
 В результате тесной работы с Николаем Кимом появился *aiohttp.web* ---
 решение для создания web серверов, ориентированное на "простого
 программиста".
 
-Request-Response
-----------------
+Handler-Request-Response
+------------------------
 
+HTTP запрос проходит через *router*, который по *URL path* находит
+*request handler* (деталях работы *router* я расскажу подробно чуть
+ниже).
+
+*request handler* --- это обычная функция или корутина, которую можно вызвать:
+
+    @asyncio.coroutine
+    def handler(request):
+        name = request.match_info['name']
+        posts = yield from db.execute(schema.post.select().where(schema.post.id == postid)).one()
+        body = "<html><body><h1>{post.title}
+        
+
+Пример закончен
+
+Описание того что есть в request.
+
+Что можно сделать с response
+
+Application & Router
+--------------------
+
+
+Рассказать как подключать handler и запускать сервер
+
+Планы на будущее
+----------------
 
