@@ -473,6 +473,7 @@ GIL — один на всю программу. Слишком расточит
         if (ret) {
             Py_BLOCK_THREADS
             PyErr_SetFromErrno(PyExc_IOerror);
+			Py_UNBLOCK_THREADS
             return NULL;
         }
         Py_END_ALLOW_THREADS
